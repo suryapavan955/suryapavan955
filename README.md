@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pavan</h1>
-<h3 align="center">A passionate frontend developer and compitetive coder from India</h3>
+<h1 align="center">Hi 👋, I'm Surya Pavan</h1>
+<h3 align="center">Enthusiastic Computer Science and Engineering graduate with strong problem-solving skills. Worked on projects like a decentralized drug traceability system and AWS-hosted static websites using Web3and frontend technologies. Proficient in C++ and Java for coding. Eager to contribute innovative solutions in a growth-oriented organization Developed</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryapavan955&label=Profile%20views&color=0e75b6&style=flat" alt="suryapavan955" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryapavan955" alt="suryapavan955" /></a> </p>
 
-- 🔭 I’m currently working on **Linux**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Frontend Development**
 
-- 💬 Ask me about **CPP, JAVA, LINUX, SQL**
+- 💬 Ask me about **CPP, JAVA, LINUX, SQL,Data Structures ,Javascript ,Reactjs**
 
 - 📫 How to reach me **suryapavan689@gmail.com**
 
