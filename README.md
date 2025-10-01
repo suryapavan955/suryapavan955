@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Surya Pavan</h1>
-<h3 align="center">Enthusiastic Computer Science and Engineering graduate with strong problem-solving skills. Worked on projects like a decentralized drug traceability system and AWS-hosted static websites using Web3and frontend technologies. Proficient in C++ and Java for coding. Eager to contribute innovative solutions in a growth-oriented organization Developed</h3>
+<h3 align="center">Computer Science graduate skilled in web and software development, with expertise in full-stack applications, RESTful APIs,
+and cloud deployment (AWS, Netlify, Render). Proficient in C++, Java, Python, JavaScript, React.js, Node.js, Express.js, and
+MongoDB. Experienced in responsive UI design, database optimization, and blockchain systems, delivering secure, scalable,
+and high-performance solutions in agile team environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryapavan955&label=Profile%20views&color=0e75b6&style=flat" alt="suryapavan955" /> </p>
 
